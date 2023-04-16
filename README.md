@@ -52,7 +52,7 @@ Used the elbow method to find the best value for `k` using the following steps:
 * Plotted a line chart with all inertia values computed with the different values of `k` to visually identify the optimal value for `k`.
 * Documented the best value for `k` as 4, which is identical to the k value from the original data.
 
-![pca_elbowplot](Images/pca_elbowplot.png)
+![pca_elbow_plot](Images/pca_elbow_plot.png)
 ### Cluster Cryptocurrencies with K-means using the PCA Data
 * Used the following steps to cluster the cryptocurrencies for the best value for `k` on the PCA data:
     * Initialized the K-means model with the best value for `k`.
@@ -64,7 +64,7 @@ Used the elbow method to find the best value for `k` using the following steps:
 * Colored the graph points with the labels found using K-Means.
 * Added the crypto name in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
 
-![coin_id_scatterplot](Images/coin_id_scatterplot.png)
+![coinid_scatterplot](Images/coinid_scatterplot.png)
 
 ### Created side by side composites to compare & contrast the original data from the PCA data
 
