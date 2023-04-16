@@ -72,6 +72,6 @@ Used the elbow method to find the best value for `k` using the following steps:
 
 ![elbowplot_pca_elbowplot](Images/elbowplot_pca_elbowplot.png)
 
-* Used hvPlot and the plus sign `(+)` operator to compare the cryptocurrencies from the original data with that of the PCA data
+* Used hvPlot and the plus sign `(+)` operator to compare the cryptocurrency clusters from the original data with that of the PCA data
 
 ![247clusters_pcclusters](Images/247clusters_pcclusters.png)
