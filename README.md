@@ -35,5 +35,5 @@ Added the crypto name in the `hover_cols` parameter to identify the cryptocurren
 ![cluster247_plot](Images/cluster247_plot.png)
 
 ### Optimized the Clusters with Principal Component Analysis
-#### Used the origial scaled DataFrame, to perform a PCA and reduced the features to three principal components.
-#### Retrieved the explained variance to determine how much information can be attributed to each principal component and then provided insight and explanation on the total explained variance of the three principal components.
+# ### Used the origial scaled DataFrame, to perform a PCA and reduced the features to three principal components.
+# ### Retrieved the explained variance to determine how much information can be attributed to each principal component and then provided insight and explanation on the total explained variance of the three principal components.
